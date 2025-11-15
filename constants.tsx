@@ -216,7 +216,7 @@ export const EXTRACURRICULAR_DATA: Extracurricular[] = [
 export const SKILLS_DATA: SkillCategory[] = [
     {
         title: 'Languages',
-        skills: ['C', 'Python', 'Java', 'HTML5', 'CSS3', 'JavaScript'],
+        skills: ['C', 'Python', 'Java', 'HTML5', 'CSS3', 'JavaScript' ,'TypeScript'],
     },
     {
         title: 'Frameworks',
@@ -224,7 +224,7 @@ export const SKILLS_DATA: SkillCategory[] = [
     },
     {
         title: 'Developer Tools',
-        skills: ['Git', 'GitHub', 'Jupyter Notebook', 'Google Colab', 'Vercel', 'Netlify', 'Firebase', 'Docker'],
+        skills: ['Git', 'GitHub', 'Jupyter Notebook', 'Google Colab', 'Vercel', 'Netlify', 'Firebase', 'Docker','Figma' , 'Canva' ,'WordPress'],
     },
     {
         title: 'Databases',
@@ -232,7 +232,7 @@ export const SKILLS_DATA: SkillCategory[] = [
     },
     {
         title: 'AI Tools',
-        skills: ['Google AI Studio', 'Replit', 'Claude', 'Cursor AI', 'qoder'],
+        skills: ['Google AI Studio', 'Replit', 'Claude', 'Cursor AI', 'qoder' ,'Wix' ,'Emergent'],
     },
     {
         title: 'Soft Skills',
