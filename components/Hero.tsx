@@ -42,7 +42,7 @@ const Hero: React.FC = () => {
                 View My Work
               </a>
               <a
-                href="https://drive.google.com/file/d/1GnH4mulAiO62Tc0TvmPGgQ7vET0kKGqG/view?usp=drive_link"
+                href="https://drive.google.com/drive/folders/14nTc1cUdjfLuhDBF6-uLm1Gku-go8g5r?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="View my CV"
